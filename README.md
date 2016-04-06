@@ -1,5 +1,7 @@
 # CDZLinkOpenManager
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 CDZLinkOpenManager provides a simple & easy facility for your app's users to select a default alternative browser (Safari, Chrome, 1Password).
 
 As an example, this is used on the Settings screen in my [BuyVM Manager app](https://github.com/cdzombak/BuyVMManager-iOS).
